@@ -41,7 +41,7 @@
     "karma-jasmine-html-reporter": "^1.4.2",
     "protractor": "~5.4.3",
     "rxjs": "~6.5.4",
-    "stylelint": "^13.2.1",
+    "stylelint": "^15.10.1",
     "stylelint-config-sass-guidelines": "^7.0.0",
     "stylelint-order": "^4.0.0",
     "stylelint-scss": "^3.16.0",
